@@ -1,0 +1,47 @@
+.post-header, .post-imgen {
+    display: flex;
+    justify-content: start;
+    height: 156px;
+    width: 156px;
+}
+
+.post-imgen {
+    position: relative;
+    left: 2306px;   
+}
+
+.post-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.post-icons, .icons1, .icons2, .icons3, .icons4 {
+    display: flex;
+    justify-content: start;
+    height: 60px;
+    width: 60px;
+    margin: 1%;
+    
+}
+
+.icons2 {
+    position: relative;
+    left: 12px;
+}
+.icons3 {
+    position: relative;
+    left: 26px;
+    height: 68px;
+}
+.icons4 {
+    position: relative;
+    left: 2426px;
+}
+.WtxtW, .WtxtWt {
+    display: flex;
+    justify-content: center;
+
+}
